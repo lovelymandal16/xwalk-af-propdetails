@@ -44,8 +44,8 @@
         {
           "component": "container",
           "name": "basic",
-          "label": "Edit Form Properties",
-          "description": "Configure Adaptive Form properties including Submit Action, Prefill, and Thank-You options. Visit https://www.adobe.com/go/learn_aemforms_cs_properties_ext for more details.",
+          "label": "Configure Adaptive Form properties including Submit Action, Prefill, and Thank-You options.",
+          "description": "Visit https://www.adobe.com/go/learn_aemforms_cs_properties_ext for more details.",
           "collapsible": false,
           "fields": []
         }
